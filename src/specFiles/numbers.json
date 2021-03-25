@@ -1,0 +1,1 @@
+{"methods":[{"void":false,"readonly":true,"visibility":"complete","trusted":true,"name":"noOfPrimeNumbers","parameters":[]},{"void":false,"readonly":true,"visibility":"complete","trusted":true,"name":"getPool","parameters":[]}],"harnessParameters":{"invocations":3},"class":"numbers.PrimeNumbers"}
