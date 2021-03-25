@@ -1,5 +1,5 @@
 
-## Using [ViolatIntegration](https://plugins.jetbrains.com/plugin/16397-violatintegration) to find Linearizability Violations in code from the open source Repositories
+## Experiments using [ViolatIntegration](https://plugins.jetbrains.com/plugin/16397-violatintegration) plugin to find Linearizability Violations in ADT implementations in the open source repositories
 
 ___________
 
