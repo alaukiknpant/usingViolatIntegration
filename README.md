@@ -7,7 +7,7 @@
 ### **How To Reproduce these results**
 
 1. Clone this repository
-2. Open it in Intellij that has ViolatIntegration installed
+2. Open it in IntelliJ IDEA that has ViolatIntegration installed
 3. Set up the run-configuration of the data structure you want to test for linearizability violations
 4. Run Violat and get the results
 
